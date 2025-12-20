@@ -34,7 +34,7 @@ An end-to-end NLP + GenAI application that analyzes how well a resume matches a 
   - Matched / Implicit
   - Missing (critical or aspirational)
 
->  LLMs are **not** used for scoring or decision-making to avoid hallucinations.
+>  LLM is **not** used for scoring or decision-making to avoid hallucinations.
 
 # 3. ATS Heuristic Feedback
 Simple, explainable checks inspired by common ATS rules:
